@@ -1,3 +1,6 @@
+Deprecated by [CommonWorkflowLanguage](github.com/common-workflow-language/common-workflow-language)
+
+
 Ceci n'est pas une pipeline
 ===========================
 
